@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Optional.Extension_Example' do
+  pod 'Optional.Extension', :path => '../'
+
+  target 'Optional.Extension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
