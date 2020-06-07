@@ -1,5 +1,5 @@
 import XCTest
-import Optional.Extension
+import Optional_Extension
 
 class Tests: XCTestCase {
     

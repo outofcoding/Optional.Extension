@@ -1,0 +1,6 @@
+framework module Optional_Extension {
+  umbrella header "Optional.Extension-umbrella.h"
+
+  export *
+  module * { export * }
+}

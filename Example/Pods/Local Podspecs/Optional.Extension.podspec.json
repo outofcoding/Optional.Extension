@@ -1,0 +1,22 @@
+{
+  "name": "Optional.Extension",
+  "version": "0.1.0",
+  "summary": "A short description of Optional.Extension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/outofcoding/Optional.Extension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "outofcoding": "outofcoding@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/outofcoding/Optional.Extension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Optional.Extension/Classes/**/*"
+}
